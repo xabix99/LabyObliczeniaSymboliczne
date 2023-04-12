@@ -1,0 +1,2 @@
+login: wimiiguest
+hasło: Wimiiguest1!
